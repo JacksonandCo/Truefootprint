@@ -1,0 +1,5 @@
+mode,emission_kg_per_ton_mile,source
+truck,0.17,https://epa.gov
+air,0.698,https://epa.gov
+rail,0.021,https://epa.gov
+ocean,0.044,https://epa.gov
